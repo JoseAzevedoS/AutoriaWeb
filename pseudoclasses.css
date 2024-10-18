@@ -1,0 +1,8 @@
+a:hover {
+    font-weight: bold;
+    color: rgb(107, 94, 94);
+}
+input:focus {
+    border: 2px solid #52bab3;
+    outline: none;
+}
